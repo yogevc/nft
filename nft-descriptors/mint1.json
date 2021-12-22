@@ -1,0 +1,22 @@
+{
+  "name": "Mint7 Test",
+  "symbol": "",
+  "description": "First NFT mint ever!!!",
+  "seller_fee_basis_points": 700,
+  "image": "https://yogevc.github.io/nft/assets/image1.jpeg", 
+  "properties": {
+    "files": [ 
+      {
+        "uri": "https://yogevc.github.io/nft/assets/image1.jpeg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5PUK3u6L5waK9cZjDUPCo1mM8vRGxMqJM4X9vWf5TBgY",
+        "share": 100
+      }
+    ]
+  }
+}
